@@ -3,8 +3,8 @@
 
 To view the resume:
 
-Clone the repository
-Open index.html in your preferred web browser
+Clone the repository.
+Open resune.html in your preferred web browser.
 
 **Features**
 
