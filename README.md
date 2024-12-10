@@ -1,5 +1,5 @@
-This is a professional resume website created using HTML and CSS, designed to showcase my professional profile, skills, and achievements in a clean, structured, and responsive format.
-Preview
+*This is a professional resume website created using HTML and CSS, designed to showcase my professional profile, skills, and achievements in a clean, structured, and responsive format.
+Preview*
 
 To view the resume:
 
